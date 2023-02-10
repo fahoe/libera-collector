@@ -6,6 +6,7 @@ Please note, there is no treatment if a configured device has no or lost connect
 Because no data avail, the pipe blocked,  the fa_archiver data stream stopped.
 This will fixed  a.s.a.p..
 
-
+Actually this program is configured for four devices and kann reduced or extended
+via sip[], dport[]  and #define MAX_LIB_THREADS
 
 
