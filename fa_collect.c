@@ -350,7 +350,7 @@ static void *libthread (void *arg) {
     }
     
     
-    int virginUDP = 1;
+    
     int i=0,j=0;
     int dloop_cnt=0;
     
